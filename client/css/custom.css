@@ -1,0 +1,52 @@
+body {
+        padding-top: 50px; 
+}
+
+h3{color: #00aa00;}
+
+#pensum{width:960px; height:550px; }
+
+.hero-unit{
+    background: white;
+    color:#008000; 
+}
+#menuUp a{
+    color: #FFFFFF;
+    text-shadow: none;
+    font-weight: bold;
+}
+#menuUp a:hover{ color:#D4D4D4;}
+
+.nav-header.active, #pensum th, h4, #pag{color: #0072b9;}
+
+#infoasig p{font-size:15px;}
+
+#menuSide a, #pensum a{
+    color: #00aa00;
+}
+h3, #dropMenu a, .thumbnails li{
+    color: #008000;
+}
+
+
+#dropMenu a:hover{
+    background: white;
+    color: #8ED95B;
+}
+footer{
+padding: 30px 0;
+margin-top: 70px;
+border-top: 1px solid #E5E5E5;
+background-color: whiteSmoke;
+
+}
+
+.navbar-inner, #boton {
+
+background:#008000;
+}
+
+.navbar .brand{
+color: #FFFFFF;
+text-shadow: none;
+}
